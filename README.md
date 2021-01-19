@@ -1,15 +1,15 @@
-### Date created
-Include the date you created this project and README file.
+Date created
+19th January 2021
 
-### Project Title
-Replace the Project Title
+Project Title
+Bikeshare Project
 
-### Description
-Describe what your project is about and what it does
+Description
+statistical analysis
 
-### Files used
-Include the files used
+Files used
+new_york_city.csv chicago.csv washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits
+I would like to thank the instructors and reviewers of Udacity
 
